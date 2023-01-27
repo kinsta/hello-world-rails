@@ -1,24 +1,22 @@
-# README
+# Kinsta - Ruby on Rails Starter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An example of how to set **Ruby on Rails** up to enable deployment on Kinsta App Hosting services.
 
-Things you may want to cover:
+---
+Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. Focus on coding and building, and we’ll take care of deployment and provide fast, scalable hosting. + 24/7 expert-only support.
 
-* Ruby version
+Get started for free, the first $20 is on us!
 
-* System dependencies
+[Application Hosting](https://kinsta.com/application-hosting)
 
-* Configuration
+[Database Hosting](https://kinsta.com/database-hosting)
 
-* Database creation
+## Dependency Management
+**Kinsta** will automatically install dependencies defined in your `Gemfile` file.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Web Server Setup
+### Start Command
+When deploying an application Kinsta will automatically create processes based on the `Procfile` in the root of the repository. Make sure to use this command to run your server:
+```
+web: rails server
+```
