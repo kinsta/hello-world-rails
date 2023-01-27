@@ -1,3 +1,5 @@
+![Photo by Kristina Flour on Unsplash](https://user-images.githubusercontent.com/2342458/215073884-0da56123-272b-4599-a69c-70028df8afe6.png)
+
 # Kinsta - Ruby on Rails Starter
 
 An example of how to set **Ruby on Rails** up to enable deployment on Kinsta App Hosting services.
