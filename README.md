@@ -20,3 +20,6 @@ When deploying an application Kinsta will automatically create processes based o
 ```
 web: rails server
 ```
+
+## Watch How to Set Up a Ruby on Rails Application on Kinsta
+[![Watch the video](https://img.youtube.com/vi/Z3V0M5TQJQs/maxresdefault.jpg)](https://www.youtube.com/watch?v=Z3V0M5TQJQs)
